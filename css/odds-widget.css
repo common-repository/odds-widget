@@ -1,0 +1,48 @@
+#build-widget label.error, #ow-settings label.error {
+	margin-left:20px;
+	color:red;
+	font-weight:bold;
+}
+#build-widget .border-colour, #build-widget .layout-size, #build-widget .title-element, #build-widget .row-colour {
+	display:none;
+}
+.ow-delete {
+	cursor:pointer;
+	color:red;
+}
+#ow-bookmakers .ow-bookie-logo {
+	vertical-align:middle;
+}
+#ow-bookmakers .ow-bookie-instructions {
+	font-size:0.8em;
+	cursor:pointer;
+	font-weight:bold;
+}
+#ow-settings .ow-loading {
+	position:absolute;
+	margin:7px 0 0 5px;
+}
+.ow-please-bear {
+	text-align:center;
+}
+.ow-please-bear img {
+	width:250px;
+}
+td.ow-nw-section {
+    font-size:20px;
+    padding:40px 0 0 0;
+    color:darkred;
+    text-decoration:underline;
+}
+p.ow-warning-msg {
+    color:#ff0000;
+    font-weight:bold;
+}
+th.ow-table-col {
+    vertical-align:top;
+    font-weight:bold;
+    width:25%;
+}
+table.ow-instructions-table {
+    margin-bottom:20px;
+}
